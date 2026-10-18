@@ -29,3 +29,24 @@ system-troubleshooter/
 │   └── architecture.md      # Technical design rationale
 └── assets/
     └── sample_crash_log.txt # Demo event log sample
+
+
+
+
+## 📦 Installation & Setup Tutorial
+
+Follow these steps to run the System Troubleshooter Agent Skill locally on your machine.
+
+### Prerequisites
+Make sure you have the following installed on your system:
+* **Python 3.10 or higher**
+* **Git**
+* **[Ollama](https://ollama.com/)** (running locally)
+
+---
+
+### Step 1: Clone the Repository
+Open your terminal and clone the project to your local machine:
+```bash
+git clone [https://github.com/AtharvVhanalkar/system-troubleshooter.git](https://github.com/AtharvVhanalkar/system-troubleshooter.git)
+cd system-troubleshooter
