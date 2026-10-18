@@ -1,0 +1,10 @@
+LogName: Application
+Source: Application Error
+EventID: 1000
+Level: Error
+TimeCreated: 10/18/2026 3:15:00 PM
+Message: Faulting application name: chrome.exe, version: 125.0.6422.113, time stamp: 0x6643a123
+Faulting module name: ntdll.dll, version: 10.0.22631.3593, time stamp: 0xa1b2c3d4
+Exception code: 0xc0000005
+Fault offset: 0x000000000003b12a
+Faulting process id: 0x4A84
