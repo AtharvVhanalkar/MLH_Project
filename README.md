@@ -6,6 +6,25 @@ Built for the 2026 Hackday / Hacktoberfest challenge.
 
 ---
 
+
+## 📦 Installation & Setup Tutorial
+
+Follow these steps to run the System Troubleshooter Agent Skill locally on your machine.
+
+### Prerequisites
+Make sure you have the following installed on your system:
+* **Python 3.10 or higher**
+* **Git**
+* **[Ollama](https://ollama.com/)** (running locally)
+
+---
+
+### Step 1: Clone the Repository
+Open your terminal and clone the project to your local machine:
+bash
+git clone [https://github.com/AtharvVhanalkar/system-troubleshooter.git](https://github.com/AtharvVhanalkar/system-troubleshooter.git)
+cd system-troubleshooter
+
 ## 🌟 Why This Project? (The Local AI Advantage)
 Most automated system repair tools ship sensitive crash dumps, system logs, and internal file paths to third-party cloud APIs. **System Troubleshooter** operates entirely on-edge:
 1. **Absolute Data Privacy:** System event logs never leave your physical hardware.
@@ -16,7 +35,7 @@ Most automated system repair tools ship sensitive crash dumps, system logs, and 
 
 ## 📂 Repository Structure
 
-```text
+text
 system-troubleshooter/
 ├── SKILL.md                 # Agent skill definition and instructions
 ├── scripts/
@@ -33,20 +52,3 @@ system-troubleshooter/
 
 
 
-## 📦 Installation & Setup Tutorial
-
-Follow these steps to run the System Troubleshooter Agent Skill locally on your machine.
-
-### Prerequisites
-Make sure you have the following installed on your system:
-* **Python 3.10 or higher**
-* **Git**
-* **[Ollama](https://ollama.com/)** (running locally)
-
----
-
-### Step 1: Clone the Repository
-Open your terminal and clone the project to your local machine:
-```bash
-git clone [https://github.com/AtharvVhanalkar/system-troubleshooter.git](https://github.com/AtharvVhanalkar/system-troubleshooter.git)
-cd system-troubleshooter
