@@ -35,7 +35,7 @@ Most automated system repair tools ship sensitive crash dumps, system logs, and 
 
 ## 📂 Repository Structure
 
-text
+```text
 system-troubleshooter/
 ├── SKILL.md                 # Agent skill definition and instructions
 ├── scripts/
